@@ -34,10 +34,15 @@ use descriptive links.
 
 3. How would you explain the concept of a variable to someone new to programming?
 
-just
+just a box to put things inside for later
 
 4. What is the purpose of using functions in code?
+
+so you can keep you code day and use it in other places
+
 5. How do you access a key inside of an object inside of an array?
+
+array[index].key or array[index][key]
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
