@@ -136,6 +136,9 @@ button:hover{
     width:100%;
 }
 
+.home{
+    font-weight: bold;
+}
 
 
 @media only screen and (max-width: 500px) {
@@ -144,14 +147,14 @@ button:hover{
         align-items: center;
         flex-direction: column;
         align-content: center;
-        margin-right: 0%;
+        margin-left: 10%;
 }
-
-
+a{
+    font-size: 1rem;
 }
 .bio{
  
-    font-size: 1.3rem;
+    font-size: .5rem;
 }
 .artist img{
     
@@ -159,3 +162,8 @@ button:hover{
 
     }
     
+    .img{
+        width: 70%;
+    }
+}
+
